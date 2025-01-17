@@ -1,2 +1,2 @@
-##PucNews Overview
+## PucNews Overview
 ![pucnews-image](pucnews.png)
